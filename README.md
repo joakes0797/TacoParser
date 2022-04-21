@@ -1,6 +1,6 @@
 # Taco Parser Kata
 
-An exercise in geolocation, csv parsing, and logging
+An exercise in geolocation and CSV parsing that involves Taco Bell restaurants.
 
 ## Kata Overview
 
